@@ -3,18 +3,18 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Wether App",
-    description: "Weatherly — Beautiful, Fast Weather for Every City.",
-    image: "/projects/project1.png",
-    tags: ["Node.js", "TailwindCSS", "Api Wether App"],
-    demoUrl: "https://wether-app-lac.vercel.app",
+    title: "7 Eagle",
+    description: "7 Eagle Group, a company that specializes in helping veterans and skillbridgers find careers. They offer personalized coaching, access to a vast employer network, and a proven track record of success in transitioning military personnel into civilian roles",
+    image: "/projects/7eagle.png",
+    tags: ["MERN Stack","Tailwind Css","JWT..",],
+    // demoUrl: "https://wether-app-lac.vercel.app",
     githubUrl: "https://github.com/MuhammadAslanAshraf/WetherApp",
   },
   {
     id: 2,
     title: "Orbit Analytics Dashboard",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "A modern booking system with secure login and responsive UI.This project is built with the MERN Stack (MongoDB, Express, React, Node.js). Integrated Stripe for secure payment processing. It is a practice working project to explore full-stack development and payment integration. Key features include booking management, authentication, and responsive design.",
     image: "/projects/project2.png",
     tags: ["React.js", "Javascript", "Node.js",'MongoDB','Tailwind Css'],
     demoUrl: "https://frontend-booking-ecru.vercel.app",
@@ -22,13 +22,22 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "BeMultilingual",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "https://wether-app-lac.vercel.app",
-    githubUrl: "#",
+      "Dubbing Services Platform – Contributed as a developer on a Next.js-based application offering dubbing services for YouTubers, Film & TV, and Businesses. The platform supports 40+ languages and is trusted by creators, studios, and global brands.",
+    image: "/projects/beMulti.png",
+    tags: ["Next.js"],
+    demoUrl: "https://bemultilingual.ca",
+    githubUrl: "https://github.com/MuhammadAslanAshraf",
+  },{
+    id: 4,
+    title: "DocumentReview.Law's",
+    description:
+      "Dubbing Services Platform – Contributed as a developer on a Next.js-based application offering.",
+    image: "/projects/docReview.png",
+    tags: ["React.js","Javascript","Tailwind Css","WebSocket"],
+    // demoUrl: "",
+    githubUrl: "https://github.com/MuhammadAslanAshraf",
   },
 ];
 

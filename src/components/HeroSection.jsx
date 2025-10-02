@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I create stellar web experiences with modern technologies. Specializing in front-end development, I build interfaces that are both beautiful and functional. As a Full Stack Developer, I work extensively with the MERN Stack (MongoDB, Express.js, React, Node.js) to deliver scalable, secure, and high-performance applications from front to back.
+            I'm Jonior Developer and detail-oriented Computer Science graduate with 1+ years of hands-on experience in MERN Stack Development. Skilled in React.js, Node.js, Express, and MongoDB, with proven ability to build scalable full-stack applications and integrate third-party services (e.g., Stripe for payments). Experienced in working on real-life projects within collaborative teams, mentoring learners, and delivering high-quality solutions. Adept at problem-solving, clean coding practices, and responsive UI/UX development. Seeking to contribute innovative ideas, technical expertise, and growth mindset to impactful projects in a professional environment.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

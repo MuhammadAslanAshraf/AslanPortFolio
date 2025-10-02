@@ -12,7 +12,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Full Stack Developer 
+              Full Stack Developer
             </h3>
 
             <p className="text-muted-foreground">
@@ -22,10 +22,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              Junior MERN Stack Developer with 1+ years of experience in creating scalable and elegant solutions to complex problems. Continuously exploring new technologies to stay ahead in the fast-evolving web development landscape.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -41,11 +38,11 @@ export const AboutSection = () => {
                 Download CV
               </a>
               <a
-                href="https://sahibzada-aslan-ashraf-cv.vercel.app" 
+                href="https://sahibzada-aslan-ashraf-cv.vercel.app"
                 target="_blank"
                 className="px-4 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                OnlineResume 
+                OnlineResume
               </a>
             </div>
           </div>
